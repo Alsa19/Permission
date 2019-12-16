@@ -2,6 +2,19 @@
 这是一个动态申请权限的示例，包含了各种可用方式。
 
 # 版本
-|版本|说明|
-|---|---|
-|1.0|使用反射方式实现权限的动态申请，[权限申请一：反射](https://blog.csdn.net/m0_37063730/article/details/103489830)|
+[![](https://jitpack.io/v/Alsa19/Permission.svg)](https://jitpack.io/#Alsa19/Permission)
+
+# 使用
+1. 在项目的build.gradle中加入如下代码：
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+2. 在module的build.gradle中加入如下代码：
+```java
+  implementation 'com.github.Alsa19:Permission:1.0.1'
+```
