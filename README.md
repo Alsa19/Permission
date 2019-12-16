@@ -16,5 +16,7 @@ allprojects {
 ```
 2. 在module的build.gradle中加入如下代码：
 ```java
-implementation 'com.github.Alsa19:Permission:1.0.1'
+dependencies {
+	implementation 'com.github.alsa20:Permission:version'
+}
 ```
