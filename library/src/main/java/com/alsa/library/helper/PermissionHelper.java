@@ -1,4 +1,4 @@
-package com.alsa.permission.helper;
+package com.alsa.library.helper;
 
 import android.app.Activity;
 import android.os.Build;

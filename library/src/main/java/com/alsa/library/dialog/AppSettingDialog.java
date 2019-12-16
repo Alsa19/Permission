@@ -1,4 +1,4 @@
-package com.alsa.permission.dialog;
+package com.alsa.library.dialog;
 
 import android.app.Activity;
 import android.app.AlertDialog;

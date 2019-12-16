@@ -1,4 +1,4 @@
-package com.alsa.permission.manager;
+package com.alsa.library;
 
 import android.app.Activity;
 import android.content.pm.PackageManager;
@@ -8,10 +8,10 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
-import com.alsa.permission.annotations.IPermission;
-import com.alsa.permission.dialog.AppSettingDialog;
-import com.alsa.permission.helper.PermissionHelper;
-import com.alsa.permission.listener.PermissionCallback;
+import com.alsa.library.annotations.IPermission;
+import com.alsa.library.dialog.AppSettingDialog;
+import com.alsa.library.helper.PermissionHelper;
+import com.alsa.library.listener.PermissionCallback;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
