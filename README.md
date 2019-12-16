@@ -2,7 +2,7 @@
 这是一个动态申请权限的示例，包含了各种可用方式。
 
 ## 版本
-[![](https://jitpack.io/v/Alsa19/Permission.svg)](https://jitpack.io/#Alsa19/Permission)
+[![](https://jitpack.io/v/alsa20/Permission.svg)](https://jitpack.io/#alsa20/Permission)
 
 ## 使用
 1. 在项目的build.gradle中加入如下代码：
